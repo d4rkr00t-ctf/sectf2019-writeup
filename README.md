@@ -212,7 +212,7 @@ _hydra.png.extracted/4E8940-0:    gzip compressed data, last modified: Fri May 1
 ```
 Ok, so we got that missing png file `4163C3` embedded inside the original picture. Let's have a look at it
 
-![hidden](./img/hidden)
+![hidden](./img/hidden.png)
 
 It's text is a lot similar to the txt file data. Let's have a look at the metadata of this image.
 ```
